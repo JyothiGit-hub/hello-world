@@ -8,3 +8,8 @@ first i take bowl
 milk
 sugar 
 some amount water
+
+keep it in gas stove
+put it in sim
+after 20 min 
+Tea prepared
